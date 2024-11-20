@@ -4,9 +4,9 @@
 
 ## Examples
 
-<div style="display: flex; margin-bottom: 10px;">
-    <img src="images/example-1.png" alt="Example 1" style="width: 500px;">
-    <img src="images/example-2.png" alt="Example 2" style="width: 500px;">
+<div style="display: flex;">
+    <img src="images/example-1.png" alt="Example 1" style="width: 400px;">
+    <img src="images/example-2.png" alt="Example 2" style="width: 400px;">
 </div>
 
 <img src="images/example-3.gif" alt="Example 3">
