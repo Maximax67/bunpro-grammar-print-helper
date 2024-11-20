@@ -1,0 +1,4 @@
+*.json
+*.pdf
+!title-page.pdf
+!structure.pdf
