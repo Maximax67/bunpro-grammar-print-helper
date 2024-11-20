@@ -4,13 +4,13 @@
 
 ## Examples
 
-<div style="display: flex; gap: 10px; margin-bottom: 10px;">
-    <img src="images/example-1.png" alt="Example 1" style="max-width: 350px;">
-    <img src="images/example-2.png" alt="Example 2" style="max-width: 350px;">
+<div style="display: flex; margin-bottom: 10px;">
+    <img src="images/example-1.png" alt="Example 1" style="width: 500px;">
+    <img src="images/example-2.png" alt="Example 2" style="width: 500px;">
 </div>
 
-<img src="images/example-3.gif" alt="Example 3" style="max-width: 710px; margin-bottom: 10px;">
-<img src="images/example-4.gif" alt="Example 3" style="max-width: 710px;">
+<img src="images/example-3.gif" alt="Example 3">
+<img src="images/example-4.gif" alt="Example 4">
 
 ## Features
 
